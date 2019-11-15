@@ -1,0 +1,11 @@
+C:\Users\Oakley\Desktop\workspace\Csharp-English-Idioms\obj\Debug\netcoreapp3.0\Csharp-English-Idioms.csprojAssemblyReference.cache
+C:\Users\Oakley\Desktop\workspace\Csharp-English-Idioms\obj\Debug\netcoreapp3.0\Csharp-English-Idioms.AssemblyInfoInputs.cache
+C:\Users\Oakley\Desktop\workspace\Csharp-English-Idioms\obj\Debug\netcoreapp3.0\Csharp-English-Idioms.AssemblyInfo.cs
+C:\Users\Oakley\Desktop\workspace\Csharp-English-Idioms\bin\Debug\netcoreapp3.0\Csharp-English-Idioms.exe
+C:\Users\Oakley\Desktop\workspace\Csharp-English-Idioms\bin\Debug\netcoreapp3.0\Csharp-English-Idioms.deps.json
+C:\Users\Oakley\Desktop\workspace\Csharp-English-Idioms\bin\Debug\netcoreapp3.0\Csharp-English-Idioms.runtimeconfig.json
+C:\Users\Oakley\Desktop\workspace\Csharp-English-Idioms\bin\Debug\netcoreapp3.0\Csharp-English-Idioms.runtimeconfig.dev.json
+C:\Users\Oakley\Desktop\workspace\Csharp-English-Idioms\bin\Debug\netcoreapp3.0\Csharp-English-Idioms.dll
+C:\Users\Oakley\Desktop\workspace\Csharp-English-Idioms\bin\Debug\netcoreapp3.0\Csharp-English-Idioms.pdb
+C:\Users\Oakley\Desktop\workspace\Csharp-English-Idioms\obj\Debug\netcoreapp3.0\Csharp-English-Idioms.dll
+C:\Users\Oakley\Desktop\workspace\Csharp-English-Idioms\obj\Debug\netcoreapp3.0\Csharp-English-Idioms.pdb
